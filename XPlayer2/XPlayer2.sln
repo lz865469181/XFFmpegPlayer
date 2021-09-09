@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XPlayer2", "XPlayer2\XPlayer2.vcxproj", "{D8ED1F89-665B-491A-B5CB-E71951C506BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8ED1F89-665B-491A-B5CB-E71951C506BB}.Debug|x86.ActiveCfg = Debug|Win32
+		{D8ED1F89-665B-491A-B5CB-E71951C506BB}.Debug|x86.Build.0 = Debug|Win32
+		{D8ED1F89-665B-491A-B5CB-E71951C506BB}.Release|x86.ActiveCfg = Release|Win32
+		{D8ED1F89-665B-491A-B5CB-E71951C506BB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A9EE1B6-F09E-45C6-B7A4-35090AC11DB6}
+	EndGlobalSection
+EndGlobal
